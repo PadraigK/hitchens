@@ -1,7 +1,7 @@
-$brand-color:        	#66fcf1;
-$highlight:           #1f2833;
-$text-color:          #cfc6c7;
-$muted-text-color:    #45a29e;
+$brand-color:         #fede00;
+$highlight:           lighten($brand-color, 35%);
+$text-color:          #0b0404;
+$muted-text-color:    darken($brand-color, 35%);
 $font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
 
 $on-bigphone:         375px;
